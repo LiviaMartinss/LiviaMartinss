@@ -21,7 +21,7 @@
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-CSS" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Livia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;" src="https://i0.wp.com/techwek.com/wp-content/uploads/2020/12/gatinho-fantasiado-de-coelho.jpg?w=750&ssl=1">
+  <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"![GIF Maker] src="https://user-images.githubusercontent.com/95534704/145678544-b8197769-15b2-434b-bb7c-ecea6e732729.gif">
 </div>
   
 ##
@@ -32,8 +32,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaMartinss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
-  
-   ![Snake animation](https://github.com/LiviaMartinss/LiviaMartinss/blob/main/.github/fluxos%20de%20trabalho/cobra.yml)
- 
-</div>
+<h1> Obrigada pela visita ✨</h1>
