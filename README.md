@@ -34,6 +34,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/LiviaMartinss/LiviaMartinss/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/LiviaMartinss/LiviaMartinss/blob/main/.github/fluxos%20de%20trabalho/cobra.yml)
  
-</div>  
+</div>
