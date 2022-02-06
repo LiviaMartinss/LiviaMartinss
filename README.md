@@ -1,4 +1,4 @@
-<h1><em>Olá, eu sou a Lívia Martins! sz</em></h1>
+<img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/readme.svg">
 
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na UNIFOR
 - 🌱 Estou aprendendo JavaScript
@@ -22,6 +22,8 @@
   <img align="center" alt="Livia-CSS" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Livia-Bulma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
   <img align="center" alt="Livia-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Livia-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Livia-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
   <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"![GIF Maker] src="https://user-images.githubusercontent.com/95534704/145678544-b8197769-15b2-434b-bb7c-ecea6e732729.gif">
 </div>
   
