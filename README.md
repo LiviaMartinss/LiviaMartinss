@@ -1,6 +1,6 @@
 <img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/readme.svg">
 
-- 🎓 Estudo Análise e Desenvolvimento de Sistemas na UNIFOR
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Estou aprendendo JavaScript
 - ✨ Atualmente trabalho como Front-end
 
