@@ -35,6 +35,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaMartinss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ![Snake animation](https://github.com/LiviaMartinss/LiviaMartinss/blob/output/github-contribution-grid-snake.svg)
-    
-<h1> Obrigada pela visita ✨</h1>
