@@ -1,7 +1,7 @@
 <img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/readme.svg">
 
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo React
 - ✨ Atualmente trabalho como Front-end
 
 ##
@@ -21,7 +21,7 @@
   <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-CSS" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Livia-Bulma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
+  <img align="center" alt="Livia-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Livia-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Livia-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Livia-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
