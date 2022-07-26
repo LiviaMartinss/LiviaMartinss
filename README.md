@@ -1,9 +1,13 @@
 <img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/readme.svg">
 
-- 🎓 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo React
-- ✨ Atualmente trabalho como Front-end
+- 🎓 I´m attending graduate school in Analysis and systems development.
+- 🌱 I´m learning React
+- ✨ Currently I work as Front End
 
+<div>
+  <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"![GIF Maker] src="https://user-images.githubusercontent.com/95534704/145678544-b8197769-15b2-434b-bb7c-ecea6e732729.gif">
+ </div>
+ 
 ##
 
 
@@ -14,9 +18,10 @@
     <a href="https://www.linkedin.com/in/livia-martins01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 ##
-  
-<h4>Minhas Tecnologias</h4>
+ 
+<h4>My Technologies</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +30,7 @@
   <img align="center" alt="Livia-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Livia-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Livia-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
-  <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"![GIF Maker] src="https://user-images.githubusercontent.com/95534704/145678544-b8197769-15b2-434b-bb7c-ecea6e732729.gif">
+  
 </div>
   
 ##
