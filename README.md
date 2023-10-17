@@ -2,7 +2,7 @@
 
 - 🎓 I'm attending graduate school in Analysis and systems development.
 - 🌱 I'm learning C#
-- ✨ Currently I work as Front End
+- ✨ Frontend Developer
 
 <div>
   <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"![GIF Maker] src="https://user-images.githubusercontent.com/95534704/145678544-b8197769-15b2-434b-bb7c-ecea6e732729.gif">
@@ -13,6 +13,7 @@
 
 <div> 
    <a href="https://discords.com/bio/p/liviadev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/liviadev.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href = "mailto:liviaamartinscarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/livia-martins01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
