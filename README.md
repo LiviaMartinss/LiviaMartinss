@@ -1,7 +1,6 @@
 <img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/header.svg">
 
 - 🎓 I'm attending graduate school in Analysis and systems development.
-- 🌱 I'm learning Ruby on rails
 - ✨ Full-Stack Developer
 
 <div>
